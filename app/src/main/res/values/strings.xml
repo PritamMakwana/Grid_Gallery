@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Grid Gallery</string>
+    <string name="text_google"><b>Features</b><br/>
+        click in one image and show full screen.<br/>
+         Full image show click left image show previours image.<br/>
+          Full image show click Right image show next image.<br/></string>
+</resources>
